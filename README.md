@@ -1,1 +1,1 @@
-# Python_Git
+Конфликт был разрешен командой git merge --allow-unrelated-histories origin/main
